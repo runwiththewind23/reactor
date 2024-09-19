@@ -1,0 +1,4 @@
+/home/sxd/reactor/reactor/Reactor/build/CMakeFiles/client.dir
+/home/sxd/reactor/reactor/Reactor/build/CMakeFiles/echoserver.dir
+/home/sxd/reactor/reactor/Reactor/build/CMakeFiles/edit_cache.dir
+/home/sxd/reactor/reactor/Reactor/build/CMakeFiles/rebuild_cache.dir

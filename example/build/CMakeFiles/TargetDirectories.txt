@@ -1,0 +1,4 @@
+/home/sxd/reactor/reactor/40/build/CMakeFiles/bankclient.dir
+/home/sxd/reactor/reactor/40/build/CMakeFiles/bankserver.dir
+/home/sxd/reactor/reactor/40/build/CMakeFiles/edit_cache.dir
+/home/sxd/reactor/reactor/40/build/CMakeFiles/rebuild_cache.dir
